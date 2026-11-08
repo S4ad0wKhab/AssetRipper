@@ -4,6 +4,9 @@
 
 If you want to run binary files, you need to install:
 
+### Android (Termux)
+- Android is not a native target. On ARM64 devices, run the Linux ARM64 build inside an Ubuntu PRoot-Distro environment in Termux. See the [Termux guide](RunningOnAndroidTermux.md).
+
 ### Unity Editor
 - [Download Unity](https://unity.com/releases/editor/archive)
 - ⚠️ Important: Your Unity editor version should be:

@@ -13,6 +13,8 @@ Get the latest stable version of AssetRipper for your platform:
 | Linux x64     | [Download](https://github.com/AssetRipper/AssetRipper/releases/latest/download/AssetRipper_linux_x64.zip) |
 | Linux Arm64     | [Download](https://github.com/AssetRipper/AssetRipper/releases/latest/download/AssetRipper_linux_arm64.zip) |
 
+Android/Termux users can run the Linux Arm64 build inside Ubuntu using [these instructions](RunningOnAndroidTermux.md). It does not run directly in Termux's Android environment.
+
 📝 [Release Notes](https://github.com/AssetRipper/AssetRipper/releases/latest)
 
 ## Pre-Releases [![Pre-Release](https://img.shields.io/github/v/release/AssetRipper/AssetRipper?include_prereleases&label=Pre-Release&style=flat-square)](https://github.com/AssetRipper/AssetRipper/releases)

@@ -359,6 +359,10 @@ public static class WebApplicationLauncher
 			{
 				Process.Start(new ProcessStartInfo(url) { UseShellExecute = true });
 			}
+			else if (OperatingSystem.IsAndroid())
+			{
+				Process.Start("termux-open-url", url);
+			}
 			else if (OperatingSystem.IsLinux())
 			{
 				Process.Start("xdg-open", url);

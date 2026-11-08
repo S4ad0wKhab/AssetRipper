@@ -13,6 +13,8 @@
       href: CommonIssues.md
     - name: Running on Mac
       href: RunningOnMac.md
+    - name: Running on Android with Termux
+      href: RunningOnAndroidTermux.md
     - name: Premium Features
       href: PremiumFeatures.md
 
